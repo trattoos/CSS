@@ -118,3 +118,16 @@ textarea {
   border-radius: 5px;
   box-sizing: border-box;
 }
+
+
+.fondo {
+  height: 300px;
+  background-size: cover;
+  background-image: linear-gradient(red, yellow);
+  background-color: rgba(0, 0, 0, 0.2);
+  background-repeat: no-repeat;
+  background-position: top left;
+
+
+  background: green url('http://phttps://placekitten.com/lacekitten.com/200/300') no-repeat left top , stop;
+}
