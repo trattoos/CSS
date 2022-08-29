@@ -123,11 +123,13 @@ textarea {
 .fondo {
   height: 300px;
   background-size: cover;
-  background-image: linear-gradient(red, yellow);
+  background-image: linear-gradie;
   background-color: rgba(0, 0, 0, 0.2);
   background-repeat: no-repeat;
+
   background-position: top left;
+}
 
-
-  background: green url('http://phttps://placekitten.com/lacekitten.com/200/300') no-repeat left top , stop;
+.shad {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 }
